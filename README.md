@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai and Machine Learning 
 - 🌱 I’m currently learning Full Stack Development  
 - 💞️ I’m looking to collaborate on Nothing yet but I am looking intho OpenSource
-- 📫 How to reach me [https://www.linkedin.com/in/paul-otunga-7a1052328/](url)
+- 📫 How to reach me: On linkedin Paul Otunga
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  ¯\_(ツ)_/¯
 
